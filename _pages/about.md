@@ -1,14 +1,12 @@
 ---
-
 permalink: /
-title: "Sheng Liu | 3D Vision & Point Cloud Reconstruction"
+title: "Sheng Liu – 3D Vision, Point Cloud Reconstruction"
 author_profile: true
 redirect_from:
-
-* /about/
-* /about.html
-
+  - /about/
+  - /about.html
 ---
+
 
 I am a PhD researcher in computer science, working on **3D vision, point cloud reconstruction, and learning-based geometric modeling**. My research interests sit at the intersection of **point cloud completion, single-view 3D reconstruction, neural rendering, and representation learning for sparse and incomplete geometry**.
 
